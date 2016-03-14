@@ -1,0 +1,12 @@
+Script started on 2016年03月14日 (週一) 20時51分06秒
+]0;F74046161@2015cpp: ~/lab1F74046161@2015cpp:~/lab1$ kls[K[K[Kls
+[0m[01;32mlab1[0m  lab1_B.h  lab1.cpp  lab1.script  README.md  README.txt  running.script
+]0;F74046161@2015cpp: ~/lab1F74046161@2015cpp:~/lab1$ ./lab1 [K
+Please enter a number:22
+The number N is :22
+22 11 34 17 52 26 13 40 20 10 5 16 8 4 2 1
+]0;F74046161@2015cpp: ~/lab1F74046161@2015cpp:~/lab1$ ls
+[0m[01;32mlab1[0m  lab1_B.h  lab1.cpp  lab1.script  README.md  README.txt  running.script
+]0;F74046161@2015cpp: ~/lab1F74046161@2015cpp:~/lab1$ exit
+
+Script done on 2016年03月14日 (週一) 20時52分01秒
